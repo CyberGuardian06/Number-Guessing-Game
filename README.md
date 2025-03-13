@@ -36,7 +36,7 @@ An interactive number guessing game built using Python and Tkinter. The game sel
 4. You have a limited number of chances to guess the correct number.  
 5. Click "Restart" to play again after the game ends.  
 
-##📷 Screenshot
+## 📷 Screenshot
 
 
 ![image](https://github.com/user-attachments/assets/e759fbdd-d5ce-42ce-96f6-9a1a3a28f2d0)
